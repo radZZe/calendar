@@ -1,0 +1,22 @@
+.link {
+  text-decoration: none;
+  margin-right: 15px;
+  padding: 10px 30px;
+  background-color: #002f34;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+}
+.link:hover {
+  background-color: #00555e;
+  color: white;
+}
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  .link{
+    padding: 5px 10px;
+  }
+}

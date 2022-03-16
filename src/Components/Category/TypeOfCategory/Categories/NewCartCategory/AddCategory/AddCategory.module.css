@@ -1,0 +1,24 @@
+.width {
+  width: 100%;
+  margin-bottom: 30px !important;
+}
+.zindex {
+  z-index: 4;
+}
+.create_btn {
+  background-color: #002f34;
+  padding: 10px 30px;
+  color: white;
+  font-size: 15px;
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+}
+.wrapper {
+  margin-left: 2%;
+}
+.select {
+  margin-bottom: 30px;
+}

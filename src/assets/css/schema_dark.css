@@ -1,0 +1,194 @@
+.schema-color-header{
+    background-color: #002f34;
+}
+.schema-color-header .toolbar-link{
+    color: white;
+}
+.schema-color-header .toolbar-link:hover{
+    background-color: white; text-decoration: none; color: black;
+}
+.schema-color-header .toolbar-dropdown > span{
+    color: white;
+}
+.schema-color-header .toolbar-dropdown > span:hover {
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+.schema-color-header .toolbar-link-button{
+    color: white; border: 2px solid white; background-color: #002f34!important; background: #002f34!important;
+}
+.schema-color-header .toolbar-link-button:hover{
+    background-color: white!important; background: white!important; color: black;
+}
+.schema-color-header .toolbar-dropdown-box{
+   background-color: #002f34;
+}
+.schema-color-header .toolbar-dropdown-box a{
+   color: white;
+}
+.schema-color-header .toolbar-dropdown-box a:hover{
+   color: black; background-color: white;
+}
+.schema-color-sidebar-menu .mobile-sidebar-menu-content{
+   background-color: #002f34;  
+}
+.schema-color-sidebar-menu .mobile-sidebar-loc span{
+    color: white;
+}
+.schema-color-sidebar-menu .mobile-sidebar-cat-name{
+    color: white;
+}
+.schema-color-sidebar-menu .mobile-sidebar-login a{
+    color: white;
+}
+.schema-color-sidebar-menu hr{
+    background-color: #202c43;
+}
+.schema-color-sidebar-menu .mobile-sidebar-footer a{
+    color: white; border: 2px solid white; background-color: #002f34!important; background: #002f34!important; 
+}
+.schema-color-sidebar-menu .mobile-sidebar-footer a:hover{
+    color: black; background-color: white!important; background: white!important; 
+}
+.schema-color-sidebar-menu .mobile-sidebar-close i:hover{
+    color: white;
+}
+.btn-color-blue{
+    background-color: #002f34; color: white;
+}
+.btn-color-green{
+    background-color: #002f34; color: white;
+}
+
+.custom-control-input:checked~.custom-control-label::before{
+    color: #fff;
+    border-color: #002f34;
+    background-color: #002f34;    
+}
+.uni-dropdown-content span:hover{
+    background-color: #002f34; color: white;
+}
+.uni-dropdown-content a:hover{
+    background-color: #002f34; color: white;
+}
+.ads-services-tariffs-btn-order{
+    background-color: #002f34; color: white;
+}
+
+.user-menu .active {
+    color: #002f34; font-weight: bold; 
+}
+.user-menu a:hover{
+    background-color: #002f34; color: white; 
+}
+.checkbox input:checked + span:after {
+    background-color: #002f34;
+}
+.checkbox input:checked + span:before {
+    background-color: #e4e4e4;
+}
+.user-list-change{
+    color: #002f34;
+}
+.mobile-sidebar-cat::-webkit-scrollbar {
+    width: 5px;
+    background-color: #002f34;
+}
+.mobile-sidebar-cat::-webkit-scrollbar-thumb {
+    width: 5px;
+    background-color: white;
+}
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+    background: #002f34!important;
+    border-color: #002f34!important;
+}
+.footer-bg{
+    background-color: #002f34; color: white;
+}
+.footer-list-link a{
+    color: white;
+}
+footer{
+    padding: 35px 0px; border: none; border-top: 1px solid #353e52!important;
+}
+.geo-list-popular .item-city:hover, .geo-list-popular .item-city-country:hover{
+    background-color: #002f34; color: white;
+}
+.page-menu-list a:hover{
+    background-color: #002f34; color: white;
+}
+.page-menu-list a.active {
+    background-color: #002f34; color: white;
+}
+.schema-color-button{
+    background-color: #002f34!important; color: white!important; 
+}
+.btn-color-gradient{
+    background: rgba(120, 82, 249, 1.0);
+    background: -webkit-linear-gradient(top left, rgba(120, 82, 249, 1.0), rgba(173, 99, 231, 1.0));
+    background: -moz-linear-gradient(top left, rgba(120, 82, 249, 1.0), rgba(173, 99, 231, 1.0));
+    background: linear-gradient(to bottom right, rgba(120, 82, 249, 1.0), rgba(173, 99, 231, 1.0));
+}
+.modal-geo-options-tab div.active {
+    background-color: #002f34;
+    color: white;
+}
+.main-search-results a:hover{
+    background-color: #002f34; color: white; text-decoration: none;
+}
+.preload-spinner{
+    width: 2.8rem; height: 2.8rem; color: #343a40!important;
+}
+.dropdown-hover:hover > span{
+    background-color: white; text-decoration: none; color: black;
+}
+.blog-category-tag a.active{
+    background-color: #002f34; color: white;
+}
+
+.item-grid-plug{
+    background-color: #002f34!important;
+}
+.item-grid-plug a{
+    color: #EDFF61;
+}
+.item-label-seo-filter a:hover{
+    background-color: #002f34; color: white;
+}
+.page-item.active .page-link{
+    background-color: #002f34; color: white; border-color: #002f34;
+}
+.page-link{
+    color: black;
+}
+.cities-list a:hover{
+   background-color: #002f34; color: white;
+}
+.item-country-hover.active{
+   background-color: #002f34; color: white;
+}
+.map-search-offers-list::-webkit-scrollbar {
+    width: 5px;
+    background-color: white;
+}
+.map-search-offers-list::-webkit-scrollbar-thumb {
+    width: 5px;
+    background-color: #002f34;
+}
+.catalog-controls > div a{
+    color: white; border: 1px solid #002f34; background-color: #002f34;
+}
+.catalog-controls > div span{
+    color: black; border: 1px solid #002f34;
+}
+.map-search-offer-content-button .ion-ios-heart{
+   color: #002f34;
+}
+.footer-list-cities a, .footer-list-text{
+    color: white;
+}
+.cities_active_country{
+    background-color: #002f34; color: white!important;
+}
+

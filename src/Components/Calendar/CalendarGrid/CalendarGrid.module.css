@@ -1,0 +1,33 @@
+.calendar_grid{
+    width:100%;
+    display: grid;
+    grid-template-columns: repeat(7,1fr);
+    grid-template-rows: repeat(6,1fr);
+    background-color: #404040;
+    grid-gap:1px;
+}
+.grid_day{
+    min-width: 140px;
+    min-height: 80px;
+    background-color: #1E1F21;
+    color: #DDDCDD;
+}
+.grid_rowInCell{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+}
+.grid_dayWrapper{
+    height: 33px;
+    width: 33px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.weekend{
+    background-color: #272829 !important;
+}
+.today{
+    background-color: #039bab;
+    border-radius: 50%;
+}
